@@ -1,6 +1,13 @@
 #bootstrap-overrides button {
   background-color: #e01c99;
 }
+#bootstrap-overrides .badge-pill {
+  background-color: #1ce063;
+  color: black;
+}
 .hide {
   display: none;
+}
+li {
+  list-style-type: none;
 }
